@@ -3,7 +3,7 @@ If you need help, please contact an officer([Henry](https://github.com/Dino11223
 ## How to set up your development environment:
 1. Fork the repo by clicking the Fork 
 2. Clone the repo either by clicking the download button, in the [Github Desktop App](https://desktop.github.com/) or by typing `git clone https://github.com/YOURGITHUBUSERNAME/Altamont-Hacktoberfest2018-R.git` (you need to have git installed to take this approach).
-3. Open RStudio(if you have not installed it, download it [here](https://www.rstudio.com/products/rstudio/download/#download) and download R [here](https://cran.cnr.berkeley.edu/)
+3. Open RStudio(if you have not installed it, download [RStudio here](https://www.rstudio.com/products/rstudio/download/#download) and [R here](https://cran.cnr.berkeley.edu/)
 4. In the top left click on `File > Open Project... ` to open the File Explorer Dialog
 5. Navigate to the location of the dowload (`C:\Users\YOURWINDOWSUSERNAME\Documents\GitHub\Altamont-Hacktoberfest2018-R` if you are using Github Desktop)
 6. Double click the solution file(`Altamont-Hacktoberfest2018-C.Rproj`)
