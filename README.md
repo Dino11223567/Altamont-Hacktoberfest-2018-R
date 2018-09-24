@@ -6,7 +6,7 @@ A month-long celebration from October 1st - 31st sponsored by C4E to get people 
 * [C](https://github.com/DJN1/Altamont-Octoberfest2018-C)
 * [HTML](https://github.com/Dino11223567/Altamont-Hacktoberfest-2018-HTML)
 * [Java](#)
-* [Javascript](#)
+* [Javascript](https://github.com/Dino11223567/Altamont-2018-Hacktoberfest-Javascript)
 * [Python](https://github.com/mamurray318/Altamont-Hacktoberfest-2018-Python)
 * [R](https://github.com/DJN1/Altamont-Hacktoberfest2018-R)
 
@@ -14,16 +14,16 @@ A month-long celebration from October 1st - 31st sponsored by C4E to get people 
 To contribute:
 
 * Go to the repository of the language of your choice and read the `howToContribute.md` file.
-* The `howToContribute.md`-file will guide your first commit step-bystep.
+* Once you have followed the steps the respective `howToContribute.md`, create a pull request by going to the pull request tab. If you taste
 
 ## Getting started
 
-*FOR MORE DETAILED INSTRUCTIONS,  PLEASE READ __[howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-R/blob/master/howToContribute.md)__*
+*FOR MORE DETAILED INSTRUCTIONS, PLEASE READ [howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-R/blob/master/howToContribute.md)*
 
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 
 ```markdown
-git clone https://github.com/your-username/Altamont-Hacktoberfest2018-R.git
+git clone https://github.com/YOURGITHUBUSERNAME/Altamont-Octoberfest2018-R.git
 ```
 
 * Create a branch
