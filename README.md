@@ -14,7 +14,7 @@ A month-long celebration from October 1st - 31st sponsored by C4E to get people 
 To contribute:
 
 * Go to the repository of the language of your choice and read the `howToContribute.md` file.
-* Once you have followed the steps the respective `howToContribute.md`, create a pull request by going to the pull request tab. If you taste
+* The `howToContribute.md`-file will guide your first commit step-bystep.
 
 ## Getting started
 
